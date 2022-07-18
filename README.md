@@ -5,7 +5,7 @@
 
 ![badge](https://img.shields.io/badge/license-mit-blue)
   
-## Table-of-Contents
+## Table of Contents
   
 * [Description](#description)
 * [Installation](#installation)

@@ -2,7 +2,6 @@
 const fs = require('fs');
 const inquirer = require('inquirer');
 const generateMarkdown = require('./tools/generateMarkdown.js');
-
 // Array of objects containing questions regarding README.
 const questions = [
   {
@@ -155,7 +154,6 @@ const questions = [
     }
   }
 ];
-
 // README file writer.
 const writeFile = fileData => {
   return new Promise((resolve, reject) => {
@@ -171,7 +169,6 @@ const writeFile = fileData => {
     });
   });
 };
-
 // function handles user input and questions.
 const init = () => {
 
@@ -180,7 +177,6 @@ const init = () => {
       return readmeFile;
     })
 }
-
 // app initialization.
 init()
   .then(readmeFile => {

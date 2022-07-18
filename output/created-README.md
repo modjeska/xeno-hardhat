@@ -1,7 +1,7 @@
 
-    # README Generator!
+    # This is a test generation!
     
-    ![badge](https://img.shields.io/badge/license-mit-blue)
+    ![badge](https://img.shields.io/badge/license-agpl-blue)
   
     ## Table-of-Contents
   
@@ -15,41 +15,41 @@
     
     ## [Description](#table-of-contents)
   
-    Helps users create a basic README for their projects.
+    test!
   
-    I created this project to make READMEs less daunting.
+    test!
   
-    Users can access this by using node.js.
+    test!
   
     ## [Installation](#table-of-contents)
   
-    Clone repo, npm i to install packages, node index.js to start creating README.
+    test!
   
     ## [Usage](#table-of-contents)
   
-    Users can access this by using node.js.
+    test!
     
     
     ## [License](#table-of-contents)
   
     The application is covered under the following license:
   
-    [mit](https://choosealicense.com/licenses/mit)
+    [agpl](https://choosealicense.com/licenses/agpl)
       
   
     ## [Contributing](#table-of-contents)
     
-    I will not be accepting contributions from third parties.
+    test!
   
     ## [Tests](#table-of-contents)
   
-    Users can test as they wish.
+    test!
   
     ## [Questions](#table-of-contents)
   
     Please contact me using the following links:
   
-    [GitHub](https://github.com/modjeska)
+    [GitHub](https://github.com/test!)
   
-    [Email: dantestargio@gmail.com](mailto:dantestargio@gmail.com)
+    [Email: test@gmail.com](mailto:test@gmail.com)
   
